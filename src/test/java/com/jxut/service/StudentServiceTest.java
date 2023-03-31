@@ -17,7 +17,6 @@ class StudentServiceTest {
     void getStudentById() {
 
         Student studentById = studentService.getStudentById(1);
-
         System.out.println(studentById);
 
     }
