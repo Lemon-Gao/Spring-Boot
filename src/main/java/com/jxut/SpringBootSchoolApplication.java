@@ -9,6 +9,7 @@ public class SpringBootSchoolApplication {
 	public static void main(String[] args) {
 		//one  --提交
 
+		//
 		SpringApplication.run(SpringBootSchoolApplication.class, args);
 	}
 
